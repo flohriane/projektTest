@@ -1,0 +1,5 @@
+C:\Users\FI-BBW-LOCAL\Documents\Source\Repos\projektTest\projektTest\bin\Debug\projektTest.dll
+C:\Users\FI-BBW-LOCAL\Documents\Source\Repos\projektTest\projektTest\bin\Debug\projektTest.pdb
+C:\Users\FI-BBW-LOCAL\Documents\Source\Repos\projektTest\projektTest\obj\Debug\projektTest.csprojResolveAssemblyReference.cache
+C:\Users\FI-BBW-LOCAL\Documents\Source\Repos\projektTest\projektTest\obj\Debug\projektTest.dll
+C:\Users\FI-BBW-LOCAL\Documents\Source\Repos\projektTest\projektTest\obj\Debug\projektTest.pdb
